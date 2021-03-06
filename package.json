@@ -8,10 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "chart.js": "^2.9.4",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "react": "16.13.1",
+    "react-chartjs-2": "^2.11.1",
     "react-dom": "16.13.1",
     "remark": "^12.0.0",
     "remark-html": "^12.0.0"
@@ -19,6 +21,7 @@
   "devDependencies": {
     "@types/node": "^13.11.0",
     "@types/react": "^16.9.32",
+    "styled-components": "^5.2.1",
     "typescript": "^3.8.3"
   }
 }

@@ -1,0 +1,32 @@
+{
+    "title": "How to make gold today",
+    "prices":{
+        "pushcase": "Preços de compra",
+        "sale": "Preços de venda"
+    },
+    "theme": {
+        "colors": {
+            "primary": "#0d47a1",
+            "secondary": "#29b6f6",
+            "mainBg": "#171B35",
+            "contrastText": "#FFFFFF",
+            "wrong": "#FF5722",
+            "success": "#4CAF50"
+        },
+        "borderRadius": ".4rem"
+    },
+    "icons":{
+        "soul-dust": "https://wow.zamimg.com/images/wow/icons/large/inv_enchanting_dust.jpg",
+        "heavy-callous-hide": "https://wow.zamimg.com/images/wow/icons/large/inv_leatherworking_90_heavyleatherhide.jpg",
+        "enchanted-heavy-callous-hide": "https://wow.zamimg.com/images/wow/icons/large/inv_enchanting_craftedreagent_leather.jpg",
+        "lightless-silk": "https://wow.zamimg.com/images/wow/icons/large/inv_tailoring_uncommoncloth.jpg",
+        "enchanted-lightless-silk":"https://wow.zamimg.com/images/wow/icons/large/inv_enchanting_craftedreagent_cloth.jpg",
+        "elethium-ore": "https://wow.zamimg.com/images/wow/icons/large/inv_ore_elethium.jpg",
+        "enchanted-elethium-bar": "https://wow.zamimg.com/images/wow/icons/large/inv_enchanting_craftedreagent_bar.jpg"
+    },
+    "labels": {
+        "silk": "Seda",
+        "elethium": "Minério",
+        "hide":"Couro"
+    }
+}
